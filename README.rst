@@ -1,5 +1,7 @@
 SAP HANA Database Client for Python
 ===================================
+.. image:: https://travis-ci.org/codeZeilen/PyHDB.svg?branch=master
+    :target: https://travis-ci.org/codeZeilen/PyHDB
 
 A pure Python client for the SAP HANA Database based on the `SAP HANA Database SQL Command Network Protocol <http://help.sap.com/hana/SAP_HANA_SQL_Command_Network_Protocol_Reference_en.pdf>`_.
 
