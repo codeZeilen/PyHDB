@@ -5,8 +5,10 @@ python:
   - "pypy"
   - "pypy3"
 
+# Installs test dependencies
 install:
   - pip install .
   - pip install pytest mock
 
+# Testing script
 script: py.test
